@@ -5,7 +5,7 @@ You are welcome to suggest clarifications or further details in interview descri
 
 ## A conversation with Alan Rector about PEN & PAD, recorded in 4 parts, October 21, 2021
 Alan Rector, a central researcher in the PEN & PAD approach to electronic health records, in a conversation with Erik Sundvall and Daniel Karlsson
-1. Intro & Demo of PEN & PAD
+1. Intro & Demo of PEN & PAD - Now available at https://youtu.be/PGEAmJJ4frU
     * Who is Alan Rector and how did he get involved in this?
     * What was PEN&PAD? (Including live demo of the PEN & PAD-based Clinergy user interface)
     * Where did it lead?
