@@ -1,7 +1,7 @@
 # Interviews
 Metadata and source files for interviews related to the PEN &amp; PAD revival community. 
 
-You are welcome to suggest clarifications or further details in interview subscriptions, or suggest new interviews and interview questions [by adding a new "issue" in the list](https://github.com/pen-pad-revival/interviews/issues).
+You are welcome to suggest clarifications or further details in interview descriptions, or suggest new interviews and interview questions [by adding a new "issue" in the list](https://github.com/pen-pad-revival/interviews/issues).
 
 ## A conversation with Alan Rector about PEN & PAD, recorded in 4 parts, October 21, 2021
 Alan Rector, a central researcher in the PEN & PAD approach to electronic health records, in a conversation with Erik Sundvall and Daniel Karlsson
