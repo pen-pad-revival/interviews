@@ -16,8 +16,10 @@ Alan Rector, a central researcher in the PEN & PAD approach to electronic health
 4. Lessons learned – how we’d do it today + some advice to those entering the health infomatics space
     * ...
 
-More inform avail at https://pen-pad-revival.github.io/
+The remaining videos will also be made available on YouTube (when trimmed and lightly edited)
 
-The videos will be made available on YouTube
+Related information will be available at https://pen-pad-revival.github.io/
+
+
 
 
